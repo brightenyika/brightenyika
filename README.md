@@ -34,7 +34,7 @@ When I'm not analyzing data, I'm usually out doing something that gets my heart 
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Expert-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-Experienced-742774?style=flat&logo=microsoft&logoColor=white" alt="Microsoft_Fabric Skill Badge">
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-Expert-742774?style=flat&logo=microsoft&logoColor=white" alt="Microsoft_Fabric Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
