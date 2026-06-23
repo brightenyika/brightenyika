@@ -14,9 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data professional with expertise in uncovering insights that drive better business decisions. My work focuses on creating interactive visualizations and data-driven stories that help organizations move beyond understanding what happened to anticipating what comes next.
-
-Every analysis, report, and forecast is designed to help businesses identify opportunities, mitigate risks, and prepare for the future.
+I'm a data professional with expertise in uncovering insights that drive better business decisions. My work focuses on creating interactive visualizations and data-driven stories that help organizations move beyond understanding what happened to anticipating what comes next. Every analysis, report, and forecast is designed to help businesses identify opportunities, mitigate risks, and prepare for the future.
 
 When I'm not analyzing data, I'm usually out doing something that gets my heart racing. Whether it's exploring the outdoors, playing soccer, or enjoying a competitive game of tennis on the weekend, I like staying active and challenging myself both on and off the field.
 
